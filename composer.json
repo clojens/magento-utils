@@ -1,0 +1,13 @@
+{
+    "name": "akira28/magento-utils",
+    "description": "A collection of snippets and scripts to simplify your life as a Magento developer.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrea De Pirro",
+            "email": "andrea.depirro@yameveo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
