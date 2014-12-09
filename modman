@@ -1,0 +1,15 @@
+src/shell/magentoCleanup.php shell/magentoCleanup.php
+src/shell/changeOrderStatus.php shell/changeOrderStatus.php
+src/shell/betterIndexer.php shell/betterIndexer.php
+src/shell/cleanCache.php shell/cleanCache.php
+src/shell/testObserver.php shell/testObserver.php
+src/shell/apiStress.php shell/apiStress.php
+src/sql/disableProducts.sql sql/disableProducts.sql
+src/sql/create_admin_community1.5+.sql sql/create_admin_community1.5+.sql
+src/sql/disableCategory.sql sql/disableCategory.sql
+src/sql/obfuscateUsers.sql sql/obfuscateUsers.sql
+src/sql/clean_db.sql sql/clean_db.sql
+src/sql/create_admin_enterprise1.1+.sql sql/create_admin_enterprise1.1+.sql
+src/sql/getParents.sql sql/getParents.sql
+src/sql/createProductsProcedure.sql sql/createProductsProcedure.sql
+src/sql/localEnv.sql sql/localEnv.sql
